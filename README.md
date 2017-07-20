@@ -5,3 +5,7 @@ The json files can be played by `asciinema play filename.json` and here I also s
 
 #### Tutorial 01: Introduction to shell
 https://asciinema.org/a/YWu6HGkiBr36a5qq5F6NCEBjT
+
+https://raw.githubusercontent.com/WyldePointer/asciinema/master/tutorials/01_shell_intro.json
+
+`tutorials/01_shell_intro.json`
